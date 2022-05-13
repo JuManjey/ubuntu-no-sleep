@@ -1,2 +1,2 @@
-sudo gedit /etc/systemd/logind.conf
+nano /etc/systemd/logind.conf
 HandleLidSwitch = ignore
